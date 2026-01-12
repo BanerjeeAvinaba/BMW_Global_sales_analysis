@@ -3,7 +3,7 @@ End-to-end data analytics project using BigQuery, SQL, and Looker Studio.
 
 # Global BMW Sales Analytics Dashboard (2010-2024)
 
-![Dashboard Preview](BMWdashboard.png)
+![Dashboard Preview](BMW_sales_db.png)
 
 
 ## 📊 Project Overview
