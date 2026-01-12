@@ -9,7 +9,13 @@ End-to-end data analytics project using BigQuery, SQL, and Looker Studio.
 ## 📊 Project Overview
 This project analyzes BMW's global sales performance over 14 years to understand market shifts towards electric vehicles and regional revenue dominance. The dashboard acts as a strategic tool for visualizing high-value sales trends across 11 distinct car models.
 
-**Live Dashboard:** [Link to your Looker Studio Report]
+**Live Dashboard:** https://lookerstudio.google.com/reporting/d25b7807-4a9a-4d87-8980-faeaaf84af75
+
+📬 Contact
+LinkedIn: www.linkedin.com/in/abaner1124
+
+Email: avinaba48@gmail.com
+       banerjeeavinaba8@gmail.com
 
 ## 🛠️ Tech Stack
 * **Database:** Google BigQuery (SQL)
